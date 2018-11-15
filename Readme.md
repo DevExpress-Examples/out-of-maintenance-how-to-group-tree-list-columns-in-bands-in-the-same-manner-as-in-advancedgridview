@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BandMap.cs](./CS/MyTreeList/BandMap.cs) (VB: [BandMap.vb](./VB/MyTreeList/BandMap.vb))
+* [Form1.cs](./CS/MyTreeList/Form1.cs) (VB: [Form1.vb](./VB/MyTreeList/Form1.vb))
+* [MyColumnDraggingState.cs](./CS/MyTreeList/MyColumnDraggingState.cs) (VB: [MyColumnDraggingState.vb](./VB/MyTreeList/MyColumnDraggingState.vb))
+* [MyPositionInfo.cs](./CS/MyTreeList/MyPositionInfo.cs) (VB: [MyPositionInfo.vb](./VB/MyTreeList/MyPositionInfo.vb))
+* [MyResourceInfo.cs](./CS/MyTreeList/MyResourceInfo.cs) (VB: [MyResourceInfo.vb](./VB/MyTreeList/MyResourceInfo.vb))
+* [MyTreeList.cs](./CS/MyTreeList/MyTreeList.cs) (VB: [MyTreeListHandler.vb](./VB/MyTreeList/MyTreeListHandler.vb))
+* [MyTreeListBand.cs](./CS/MyTreeList/MyTreeListBand.cs) (VB: [MyTreeListBand.vb](./VB/MyTreeList/MyTreeListBand.vb))
+* [MyTreeListBandCollection.cs](./CS/MyTreeList/MyTreeListBandCollection.cs) (VB: [MyTreeListBandCollection.vb](./VB/MyTreeList/MyTreeListBandCollection.vb))
+* [MyTreeListBandInfo.cs](./CS/MyTreeList/MyTreeListBandInfo.cs) (VB: [MyTreeListBandInfo.vb](./VB/MyTreeList/MyTreeListBandInfo.vb))
+* [MyTreeListHandler.cs](./CS/MyTreeList/MyTreeListHandler.cs) (VB: [MyTreeListHandler.vb](./VB/MyTreeList/MyTreeListHandler.vb))
+* [MyTreeListViewInfo.cs](./CS/MyTreeList/MyTreeListViewInfo.cs) (VB: [MyTreeListViewInfo.vb](./VB/MyTreeList/MyTreeListViewInfo.vb))
+* [Program.cs](./CS/MyTreeList/Program.cs) (VB: [Program.vb](./VB/MyTreeList/Program.vb))
+<!-- default file list end -->
 # How to group tree list columns in bands in the same manner as in AdvancedGridView
 
 
